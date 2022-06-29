@@ -3,4 +3,6 @@
 #  the function will return the average age of adults.
 #  Print on console the result.
 # qweqweqwe
+# asd
+#
 asdasd
